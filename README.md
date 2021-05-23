@@ -15,3 +15,8 @@
 2 D 7 F 4  
 0  
 ```
+# Zastosowania algorytmu Forda-Fulkersona  
+Algorytm Forda-Fulkersona znajduje swoje zastosowanie w:  
+-komunikacji miejskiej i transporcie  
+-liniach lotniczych  
+-różnych programach komputerowych
