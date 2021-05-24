@@ -2,6 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <queue>
+#include <climits>
 
 using namespace std;
 int min(int a,int b)
@@ -129,7 +130,7 @@ public:
 int main()
 {
     Graph G;
-    cout<<G.EdmundKarp();
+    cout<<G.EdmundKarp()<<endl;
     return 0;
 }
 

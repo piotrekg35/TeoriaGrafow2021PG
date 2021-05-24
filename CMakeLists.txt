@@ -1,7 +1,5 @@
-cmake_minimum_required(VERSION 3.17)
-project(graphs)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
 
-set(CMAKE_CXX_STANDARD 14)
+project(grafy)
 
-add_executable(graphs
-        main.cpp)
+add_subdirectory(src)
