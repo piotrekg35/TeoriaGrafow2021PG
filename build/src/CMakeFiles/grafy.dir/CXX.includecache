@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Pulpit/tgproject/TeoriaGrafow2021PG/src/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+queue
+-
+climits
+-
+
