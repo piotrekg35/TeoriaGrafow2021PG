@@ -1,4 +1,6 @@
 # O pliku graph.txt
+### Jest to plik w którym znajduje się graf  
+### Plik zlokalizowany jest w build/src/  
 ### Wierzchołki grafu nazywane są kolejnymi dużymi literami alfabetu.  
 ### W pierwszej linii pliku znajduje się liczba wierzchołków.  
 ### Pozostałe linie reprezentują wierzchołki. W tych liniach:  
