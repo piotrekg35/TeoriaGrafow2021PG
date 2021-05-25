@@ -1,6 +1,0 @@
-/home/student/Pulpit/tgproject/TeoriaGrafow2021PG/build/CMakeFiles/rebuild_cache.dir
-/home/student/Pulpit/tgproject/TeoriaGrafow2021PG/build/CMakeFiles/edit_cache.dir
-/home/student/Pulpit/tgproject/TeoriaGrafow2021PG/build/src/CMakeFiles/edit_cache.dir
-/home/student/Pulpit/tgproject/TeoriaGrafow2021PG/build/src/CMakeFiles/rebuild_cache.dir
-/home/student/Pulpit/tgproject/TeoriaGrafow2021PG/build/src/CMakeFiles/run_grafy.dir
-/home/student/Pulpit/tgproject/TeoriaGrafow2021PG/build/src/CMakeFiles/grafy.dir
