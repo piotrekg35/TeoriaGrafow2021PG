@@ -4,7 +4,7 @@
 ### W pierwszej linii pliku znajduje się liczba wierzchołków.  
 ### Pozostałe linie reprezentują wierzchołki. W tych liniach:  
 -Pierwsza liczba jest liczbą krawędzi wychodzących z danego wierzchołka  
--Następnie występują parami wierzchołek, do którego wchodzi krawędź i waga krawędzi  
+-Następnie występują parami wierzchołek, do którego wchodzi krawędź i waga tej krawędzi  
 -Pierwsza taka linia reprezentuje źródło, a ostatnia ujście  
 ### Przykład 
 ```
@@ -18,14 +18,15 @@
 ```  
 # Jak uruchomić?  
 ## VSCode  
-### W TeoriaGrafow2021PG należy stworzyć folder build, a w tym folderze folder src. Następnie należy przenieść plik graph.txt do TeoriaGrafow2021PG/build/src/. Później należy przejść do build/ i wpisać  
+### Należy stworzyć folder build, a w tym folderze folder src. Następnie należy przenieść plik graph.txt do build/src/. Później należy przejść do build/ i wpisać w terminalu  
 ```
 cmake ../
 make
 make run_grafy
 ```
-# Zastosowania algorytmu Forda-Fulkersona  
-Algorytm Forda-Fulkersona znajduje swoje zastosowanie w:  
+# Zastosowania algorytmu Forda-Fulkersona
+Algorytm Forda-Fulkersona pozwala na obliczenie maksymalnego przepływu w sieci.  
+Znajduje swoje zastosowanie w:  
 -komunikacji miejskiej i transporcie  
 -liniach lotniczych  
 -różnych programach komputerowych
