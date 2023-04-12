@@ -1,12 +1,12 @@
-# O pliku graph.txt
-### Jest to plik w którym znajduje się graf  
-### Wierzchołki grafu nazywane są kolejnymi dużymi literami alfabetu.  
-### W pierwszej linii pliku znajduje się liczba wierzchołków.  
-### Pozostałe linie reprezentują wierzchołki. W tych liniach:  
--Pierwsza liczba jest liczbą krawędzi wychodzących z danego wierzchołka  
--Następnie występują parami wierzchołek, do którego wchodzi krawędź i waga tej krawędzi  
--Pierwsza taka linia reprezentuje źródło, a ostatnia ujście  
-### Przykład 
+# About graph.txt file
+### File represents a graph  
+### Graph's vertexes are named after capital letters, starting from A, then B, etc.  
+### First line of file inludes number of vertexes.  
+### Other lines represent vertexes. In those lines:  
+-First number is the number of edges coming from the vertex  
+-Next, there are pairs of vertex, where the edge enters and the weight of the edge.  
+-First line is a source, the last one is an outlet.    
+### Example 
 ```
 6    
 2 B 16 C 13     
@@ -16,17 +16,3 @@
 2 D 7 F 4  
 0  
 ```  
-# Jak uruchomić?  
-## VSCode  
-### Należy stworzyć folder build, a w tym folderze folder src. Następnie należy przenieść plik graph.txt do build/src/. Później należy przejść do build/ i wpisać w terminalu  
-```
-cmake ../
-make
-make run_grafy
-```
-# Zastosowania algorytmu Forda-Fulkersona
-Algorytm Forda-Fulkersona pozwala na obliczenie maksymalnego przepływu w sieci.  
-Znajduje swoje zastosowanie w:  
--komunikacji miejskiej i transporcie  
--liniach lotniczych  
--różnych programach komputerowych
