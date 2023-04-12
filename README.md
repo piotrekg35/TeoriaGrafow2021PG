@@ -1,3 +1,5 @@
+# Introduction
+### The Ford–Fulkerson algorithm (FFA) is a greedy algorithm that computes the maximum flow in a flow network.  
 # About graph.txt file
 ### File represents a graph  
 ### Graph's vertexes are named after capital letters, starting from A, then B, etc.  
@@ -5,7 +7,7 @@
 ### Other lines represent vertexes. In those lines:  
 -First number is the number of edges coming from the vertex  
 -Next, there are pairs of vertex, where the edge enters and the weight of the edge.  
--First line is a source, the last one is an outlet.    
+-First line is a source, the last one is an snik.    
 ### Example 
 ```
 6    
